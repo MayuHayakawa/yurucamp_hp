@@ -1,0 +1,88 @@
+#article-join-us {
+    height: auto;
+    padding: 32px 16px;
+    background-image: url(https://images.unsplash.com/photo-1476041800959-2f6bb412c8ce?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80);
+    background-color: rgb(0, 0, 0, 0.6);
+    background-blend-mode: darken;
+    background-position: top;
+    background-size: cover;
+    color: white;
+}
+
+#article-join-us h3 {
+    margin: 0;
+    font-size: 50px;
+}
+
+#article-join-us span {
+    color: orange;
+}
+
+#article-join-us button {
+    font-size: 16px;
+    background-color: rgb(40, 40, 40);
+    border: 0;
+    color: inherit;
+    padding: 16px;
+}
+
+#article-join-us button:hover {
+    background-color: rgb(62, 62, 62);
+    color: orange;
+}
+
+#article-read-more {
+    height: auto;
+    padding: 32px 16px;
+    margin-bottom: 50px;
+    color: white;
+}
+
+#article-read-more h1 {
+    margin: 0;
+    font-size: 25px;
+}
+
+#article-read-more span {
+    color: orange;
+}
+
+#article-read-more button {
+    font-size: 16px;
+    background-color: white;
+    border: 0;
+    color: rgb(40, 40, 40);
+    padding: 16px;
+}
+
+#article-read-more button:hover {
+    background-color: orange;
+    color: rgb(62, 62, 62);
+}
+
+section {
+    padding: 32px 16px;
+}
+
+.fa-solid {
+    font-size: 50px;
+}
+
+#location, #chill{
+    background-color: white;
+}
+
+#location i:hover, #location h1:hover, #chill i:hover, #chill h1:hover {
+    color: orange;
+}
+
+#rent {
+    background-color: orange;
+}
+
+#rent i:hover, #rent h1:hover {
+    color: white;
+}
+
+
+

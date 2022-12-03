@@ -1,0 +1,28 @@
+header {
+    height: auto;
+    display: block;
+    padding: 0 8px;
+    color: white;
+}
+
+header h1 {
+    margin: 8px;
+}
+
+li, a {
+    list-style: none;
+    color: inherit;
+    text-decoration: none;
+}
+
+li {
+    padding: 8px;
+}
+
+li:hover {
+    background-color: rgb(62, 62, 62);
+}
+
+a:hover {
+    color: orange;
+}
